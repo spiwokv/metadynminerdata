@@ -1,9 +1,9 @@
 # Data for metadynminer and metadynminer3d packages
 
 This repo contains data for testing of R packages
-metadynminer
+[metadynminer](https://github.com/spiwokv/metadynminer)
 and 
-metadynminer3d
+[metadynminer3d](https://github.com/spiwokv/metadynminer3d).
 
 # Data
 
