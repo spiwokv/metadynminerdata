@@ -7,7 +7,7 @@ and
 
 # Data
 
-* All [all.tar.gz](all.tar.gz)
+* All [all.tar.gz](all.tar.gz) [all.zip](all.zip)
 * 1D [1D.tar.gz](1D.tar.gz)
   + [acealanme.top](1D/acealanme.top)
   + [after_md1.gro](1D/after_md1.gro)
