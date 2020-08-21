@@ -7,8 +7,8 @@ and
 
 # Data
 
-* All [all.tar.gz](all.tar.gz) [all.zip](all.zip)
-* 1D [1D.tar.gz](1D.tar.gz)
+* All: [all.tar.gz](all.tar.gz), [all.zip](all.zip)
+* 1D: [1D.tar.gz](1D.tar.gz)
   + [acealanme.top](1D/acealanme.top)
   + [after_md1.gro](1D/after_md1.gro)
   + [after_md1_now.gro](1D/after_md1_now.gro)
@@ -19,7 +19,7 @@ and
   + [md.mdp](1D/md.mdp)
   + [mtd1fit.xtc](1D/mtd1fit.xtc)
   + [plumed.dat](1D/plumed.dat)
-* 2D [2D.tar.gz](2D.tar.gz)
+* 2D: [2D.tar.gz](2D.tar.gz)
   + [acealanme.top](2D/acealanme.top)
   + [after_md1.gro](2D/after_md1.gro)
   + [after_md1_now.gro](2D/after_md1_now.gro)
@@ -30,7 +30,7 @@ and
   + [md.mdp](2D/md.mdp)
   + [mtd1fit.xtc](2D/mtd1fit.xtc)
   + [plumed.dat](2D/plumed.dat)
-* 3D [3D.tar.gz](3D.tar.gz)
+* 3D: [3D.tar.gz](3D.tar.gz)
   + [acealanme.top](3D/acealanme.top)
   + [after_md1.gro](3D/after_md1.gro)
   + [after_md1_now.gro](3D/after_md1_now.gro)
